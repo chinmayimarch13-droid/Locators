@@ -1,4 +1,4 @@
-#Locators
+# Locators
 -ID
 -NAME
 -CLASS NAME
@@ -7,3 +7,5 @@
 # Tools
 -Selenium
 -Chrome
+# Authore
+-Chinmayii
